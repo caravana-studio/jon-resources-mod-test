@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Loot Survivor MOD",
+    "id": 0,
+    "image": "loot-survivor",
+    "description": "Play to die in this Loot Survivor inspired mod. Face obstacles and kill beasts while you explore the dungeon. Live on mainnet!",
+    "url": "https://ls.jokersofneon.com"
+  },
+  {
+    "title": "Classic Jokers of Neon",
+    "id": 1,
+    "image": "classic",
+    "description": "The classic version of Jokers of Neon",
+    "url": "/login"
+  }
+]
